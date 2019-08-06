@@ -1,0 +1,21 @@
+footer{
+background:#ff8000;
+color:#fff;
+width:1300px;
+height:266px;
+border: 10px solid #000;
+}
+body{
+	background-image: url(../imagenes/multi.jpg);
+	background-size:1459px 1320px;
+	background-repeat:no-repeat;
+	}
+	
+h1{
+	color:white;
+	
+}
+h3{
+	color:white;
+	
+	}
